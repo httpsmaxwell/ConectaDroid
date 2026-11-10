@@ -1,0 +1,18 @@
+# PyInstaller & Build files
+build/
+dist/
+*.spec
+
+# Configurações locais e ambiente
+config.json
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editores
+.vscode/
+.idea/
