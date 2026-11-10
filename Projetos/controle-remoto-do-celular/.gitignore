@@ -1,0 +1,10 @@
+# PyInstaller & Build files
+build/
+dist/
+*.spec
+
+# Configurações e ambiente
+config.json
+.env
+__pycache__/
+*.pyc
