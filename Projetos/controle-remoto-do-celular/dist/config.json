@@ -1,0 +1,8 @@
+{
+  "alvo": "192.168.0.8:5555",
+  "scrcpy_dir": "",
+  "always_on_top": true,
+  "stay_awake": true,
+  "tela_apagada": true,
+  "fechar_ao_abrir": true
+}
